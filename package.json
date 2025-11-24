@@ -1,0 +1,24 @@
+{
+  "name": "pertemuan-9-pws",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "<img width=\"1920\" height=\"1020\" alt=\"Screenshot 2025-11-24 124028\" src=\"https://github.com/user-attachments/assets/7819957a-0240-426e-9d3f-574a4ac58fb3\" /> <img width=\"1920\" height=\"1020\" alt=\"Screenshot 2025-11-24 124042\" src=\"https://github.com/user-attachments/assets/ea2ba7ab-c173-433d-9e49-ddcb5e04e7df\" /> <img width=\"1920\" height=\"1020\" alt=\"Screenshot 2025-11-24 123846\" src=\"https://github.com/user-attachments/assets/0fc35059-af22-40e9-8a9d-866030a09a7b\" /> <img width=\"1920\" height=\"1020\" alt=\"Screenshot 2025-11-24 123939\" src=\"https://github.com/user-attachments/assets/984c0b21-69a2-4da2-a43d-8797f4984511\" />",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "mysql2": "^3.15.3",
+    "nodemon": "^3.1.11",
+    "pg": "^8.16.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.7",
+    "sequelize-cli": "^6.6.3"
+  }
+}
